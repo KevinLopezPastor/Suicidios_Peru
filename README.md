@@ -1,3 +1,3 @@
 # Data_Analysis_Project
 Es un repositorio para proyectos sobre análisis de datos abiertos
-![Reporte de suicidios Perú](Data_Analysis_Project/reporte_suicidios.png)
+![Reporte de suicidios Perú](reporte_suicidios.png)
